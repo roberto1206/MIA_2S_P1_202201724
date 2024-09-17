@@ -1,0 +1,1 @@
+mkdisk -size=5 -unit=M -fit=WF -path="/home/robertog/Documentos/programas/Proyecto1/disk/disco1.mia"
